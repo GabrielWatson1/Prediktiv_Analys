@@ -1,4 +1,4 @@
-Sammanfattning på arbetesprocessen samt de findings som vi har gjort
+Sammanfattning på arbetesprocessen samt de findings som jag har gjort
 
 Import Data / Explore Data
 
@@ -43,7 +43,7 @@ Jag känner att min sactterplot inte kan "predict" höga värden. Jag försökte
 av robust scalar för att förbättra modellen. Har med det i koden men gjorde ingen skillnad. Vet ej om jag har
 gjorde rätt eller fel. 
 
-Tack för ännu en utamandande men kul kurs att jobba med. Hoppas du har en bra helg :)
+
 
 
 
